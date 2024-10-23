@@ -11,6 +11,8 @@ def mul(a,b):
 def div(a,b):
     print('Div is: ',a/b)
 
+def fact(a):
+    print(math.factorial(a))
 
 def pow(a,b):
     print('power is: ',a**b)
